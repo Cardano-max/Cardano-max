@@ -22,7 +22,7 @@
 - 🎓 I'm currently pursuing an advanced degree in Computer Science with a focus on AI.
 - 🌱 I'm exploring the new emerging AI technologies and am always on the lookout for innovative techniques and tools.
 - 🧠 I'm specifically interested in the fields of Natural Language Processing, Computer Vision, Generative AI, and Reinforcement Learning.
-- 🌐 You can see a more detailed overview of my work at [www.ateebtaseer.com]([[http://www.ateebtaseer.com](https://final.dvae8d4y6hx3c.amplifyapp.com/index.html](https://final.dvae8d4y6hx3c.amplifyapp.com/index.html)))
+- 🌐 You can see a more detailed overview of my work at [www.ateebtaseer.com]([[](https://final.dvae8d4y6hx3c.amplifyapp.com/index.html)))
 
 <br />
 
