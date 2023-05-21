@@ -1,4 +1,9 @@
 <h1 align="center">👋 Hello there, I'm Ateeb Taseer! 👨‍💻</h1>
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
 
 <div align="center">
   
@@ -50,10 +55,11 @@
 
 ## 💻 Some of my projects participation
 
-- **OpenAI's GPT-2**: A state-of-the-art NLP model by OpenAI. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=openai&repo=gpt-2)](https://github.com/openai/gpt-2)
-- **TensorFlow's Model Garden**: A collection of various TensorFlow models in different stages of development. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=models)](https://github.com/tensorflow/models)
-- **Hugging Face's Transformers**: A state-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=transformers)](https://github.com/huggingface/transformers)
-- **Airbnb's Superset**: A modern, enterprise-ready business intelligence web application. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=superset)](https://github.com/apache/superset)
+- **OpenAI's GPT-2**: A state-of-the-art NLP model by OpenAI. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=openai&repo=gpt-2&bg_color=000000)](https://github.com/openai/gpt-2)
+- **TensorFlow's Model Garden**: A collection of various TensorFlow models in different stages of development. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=models&bg_color=000000)](https://github.com/tensorflow/models)
+- **Hugging Face's Transformers**: A state-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=transformers&bg_color=000000)](https://github.com/huggingface/transformers)
+- **Airbnb's Superset**: A modern, enterprise-ready business intelligence web application. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=superset&bg_color=000000)](https://github.com/apache/superset)
+
 
 
 <br />
@@ -63,9 +69,6 @@
 
 <h3 align="center">🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ateebtaseer/)</h3>
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 ###
 
