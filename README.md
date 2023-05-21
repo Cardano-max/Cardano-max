@@ -50,9 +50,9 @@
 
 ## 💻 Some of my projects
 
-- **Project1**: An end-to-end deep learning model for pattern recognition in large datasets using Convolutional Neural Networks. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGithubUserName&repo=Project1)](https://github.com/YourGithubUserName/Project1)
-- **Project2**: An AI-based predictive model for stock market trends using LSTM and time series data. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGithubUserName&repo=Project2)](https://github.com/YourGithubUserName/Project2)
-- **Project3**: A chatbot powered by transformer-based models and open-source NLP tools like Hugging Face. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGithubUserName&repo=Project3)](https://github.com/YourGithubUserName/Project3)
+- **Project1**: An end-to-end deep learning model for pattern recognition in large datasets using Convolutional Neural Networks. [![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=YourGithubUserName&repo=Project1]([https://github.com/Cardano-max/RadiXGPT))](https://github.com/YourGithubUserName/Project1](https://github.com/Cardano-max/RadiXGPT))
+- **Project2**: An AI-based predictive model for stock market trends using LSTM and time series data. [![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=YourGithubUserName&repo=Project2](https://master.d1qdg25c98zkhj.amplifyapp.com/index.html))]([https://github.com/YourGithubUserName/Project2](https://master.d1qdg25c98zkhj.amplifyapp.com/index.html))
+- **Project3**: A chatbot powered by transformer-based models and open-source NLP tools like Hugging Face. [![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=YourGithubUserName&repo=Project3](https://huggingface.co/spaces/Singularity666/RadiXGPT_))]([https://github.com/YourGithubUserName/Project3](https://huggingface.co/spaces/Singularity666/RadiXGPT_))
 
 <br />
 
@@ -86,7 +86,14 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/cardano-max/count.svg?"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cardano-max&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cardano-max&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -199,4 +206,13 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/cardano-max/cardano-max/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/cardano-max/count.svg?"  />
+</div>
+
+###
 <h3 align="center">🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ateebtaseer/)</h3>
