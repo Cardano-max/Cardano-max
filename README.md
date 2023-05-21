@@ -48,23 +48,16 @@
 
 <br />
 
-## 💻 Some of my projects
+## 💻 Some of my projects participation
 
-- **Project1**: An end-to-end deep learning model for pattern recognition in large datasets using Convolutional Neural Networks. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGithubUserName&repo=Project1)](https://github.com/YourGithubUserName/Project1)
-- **Project2**: An AI-based predictive model for stock market trends using LSTM and time series data. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGithubUserName&repo=Project2)](https://github.com/YourGithubUserName/Project2)
-- **Project3**: A chatbot powered by transformer-based models and open-source NLP tools like Hugging Face. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGithubUserName&repo=Project3)](https://github.com/YourGithubUserName/Project3)
+- **OpenAI's GPT-2**: A state-of-the-art NLP model by OpenAI. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=openai&repo=gpt-2)](https://github.com/openai/gpt-2)
+- **TensorFlow's Model Garden**: A collection of various TensorFlow models in different stages of development. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=models)](https://github.com/tensorflow/models)
+- **Hugging Face's Transformers**: A state-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=transformers)](https://github.com/huggingface/transformers)
+- **Airbnb's Superset**: A modern, enterprise-ready business intelligence web application. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=superset)](https://github.com/apache/superset)
+
 
 <br />
 
-## 📈 Github Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YourGithubUserName&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGithubUserName&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGithubUserName&layout=compact&theme=tokyonight" />
-</p>
 
 <br />
 
