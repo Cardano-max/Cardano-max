@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hello there, I'm Ateeb Taseer! 👨‍💻</h1>
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+
 
 ###
 
